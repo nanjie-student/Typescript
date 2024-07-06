@@ -1,2 +1,3 @@
 # Typescript
-A complex web application
+This is a fully built and deployed Typescript application.
+Used Vite + Typescript + React
